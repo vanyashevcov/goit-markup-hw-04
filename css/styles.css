@@ -325,6 +325,10 @@ img {
     background-color: #404bbf;
 }
 
+.team-icon {
+    fill: #f4f4fd;
+}
+
 /* Portfolio section */
 
 .portfolio-section {
@@ -418,7 +422,7 @@ img {
 
 .footer-container {
     display: flex;
-    justify-content: baseline;
+    align-items: baseline;
 }
 
 .footer-box {
@@ -486,4 +490,8 @@ img {
 .footer-social-link:hover,
 .footer-social-link:focus {
     background-color: #31d0aa;
+}
+
+.footer-icon {
+    fill: #f4f4fd;
 }
